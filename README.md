@@ -1,2 +1,2 @@
-# backup-windows-macrium
-Guia prático de backup e restauração com Macrium Reflect 
+Projeto em construção. Em breve documentação real de backup no Windows.
+Atualizando README para preparar novo projeto. 
