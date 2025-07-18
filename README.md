@@ -18,7 +18,7 @@ Backup concluído com sucesso. As imagens do processo foram salvas e servem como
 
 ## Prints de tela
 
-![Texto alternativo](inicio-do-backup.png)
+![Texto alternativo] (inicio-do-backup.png)
 
 
 
