@@ -18,7 +18,7 @@ Backup concluído com sucesso. As imagens do processo foram salvas e servem como
 
 ## Prints de tela
 
-*Em breve serão adicionadas as imagens das etapas.*
+
 
 
 ### Sobre os arquivos gerados no backup
