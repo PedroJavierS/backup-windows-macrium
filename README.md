@@ -18,7 +18,30 @@ Backup concluído com sucesso. As imagens do processo foram salvas e servem como
 
 ## Prints de tela
 
-![Texto alternativo](inicio-do-projeto.png)
+<details>
+<summary><strong>📸 Ver prints do processo de backup</strong></summary>
+
+<br>
+
+<h3>1. Agenda de Backup</h3>
+<img src="agenda-de-backup.png" alt="Agenda de Backup" width="600">
+
+<h3>2. Início do Projeto</h3>
+<img src="inicio-do-projeto.png" alt="Início do Projeto de Backup" width="600">
+
+<h3>3. Configurando Backup</h3>
+<img src="configurando-backup.png" alt="Configurando Backup" width="600">
+
+<h3>4. Escolha dos itens para Backup</h3>
+<img src="itens-para-backup.png" alt="Itens selecionados para Backup" width="600">
+
+<h3>5. HDD do Backup</h3>
+<img src="hdd-backup.png" alt="Disco HDD escolhido para Backup" width="600">
+
+<h3>6. Resultado final</h3>
+<img src="resultado-final.png" alt="Resultado Final do Backup" width="600">
+
+</details>
 
 
 
