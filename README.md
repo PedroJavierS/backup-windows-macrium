@@ -60,6 +60,8 @@ A ferramenta de backup utilizada chama-se "Backup e Restauração (Windows 7)" p
 
 Você pode fazer backups simples dos seus arquivos pessoais ou incluir uma imagem do sistema para criar uma cópia completa do Windows, programas e dados. A inclusão da imagem do sistema leva mais tempo e ocupa mais espaço, mas oferece uma restauração completa em caso de problemas graves.
 
+##✅ Conclusão
+
 Este procedimento garante uma cópia de segurança confiável para proteção de dados no Windows.
 
 ## Autor
