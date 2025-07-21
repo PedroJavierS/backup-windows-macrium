@@ -31,7 +31,24 @@ Backup concluído com sucesso. As imagens do processo foram salvas e servem como
 
 ▶️ **Ver prints do processo de backup**
 
-![Tela de configuração do backup](configurando-backup.png)
+<details>
+<summary>📂 Ver prints do processo de backup</summary>
+
+![Início do projeto](./prints/inicio-do-projeto.png)
+
+![Itens para backup](./prints/itens-para-backup.png)
+
+![Configuração de destino (HDD)](./prints/hdd-backup.png)
+
+![Agendamento do backup](./prints/agenda-de-backup.png)
+
+![Configuração final](./prints/configurando-backup.png)
+
+![Resultado final](./prints/resultado-final.png)
+
+</details>
+
+
 
 ---
 
