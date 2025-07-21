@@ -29,7 +29,6 @@ Backup concluído com sucesso. As imagens do processo foram salvas e servem como
 
 ## 📸 Prints de tela
 
-▶️ **Ver prints do processo de backup**
 
 <details>
 <summary><strong>📸 Ver prints do processo de backup</strong></summary>
